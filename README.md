@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Status-Deployed-brightgreen.svg)](https://boxing-scoring-audit-capstone-project-5kpdjajridrjqfa2ty6y.streamlit.app)
 
 **Live Demo:** [Boxing Audit Tool on Streamlit Cloud](https://boxing-scoring-audit-capstone-project-5kpdjajridrjqfa2ty6y.streamlit.app)
-To train the model, you can use the audit data in this github to see the demo.
+To train the model, you can use the audit data in this GitHub to see the demo.
 
 This project is a Senior Capstone Project for my B.A. degree program. The Boxing Audit Tool uses Support Vector Machine (SVM) classification to predict boxing match verdicts based on fighter attribute differences. The tool provides an interactive web interface for uploading fight data, training the model, and exploring predictions through comprehensive visualizations.
 
@@ -16,15 +16,6 @@ This project is a Senior Capstone Project for my B.A. degree program. The Boxing
 - [Key Features](#key-features)
 - [How It Works](#how-it-works)
 - [Model Validation Approach](#model-validation-approach)
-- [Installation](#installation)
-- [Usage Guide](#usage-guide)
-- [Data Format](#data-format)
-- [Visualizations](#visualizations)
-- [Model Performance](#model-performance)
-- [Known Limitations](#known-limitations)
-- [Technical Stack](#technical-stack)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
